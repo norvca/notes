@@ -1,1 +1,1 @@
-## Blog 内容在 issue里
+## Blog 内容在 [issues](https://github.com/norvca/blog/issues) 里
